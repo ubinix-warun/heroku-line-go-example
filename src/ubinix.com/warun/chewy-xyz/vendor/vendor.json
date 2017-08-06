@@ -1,0 +1,31 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "2GXGbJJIcOq3C32TirvQLxyOQ+0=",
+			"path": "github.com/line/line-bot-sdk-go/linebot",
+			"revision": "b25432f2bcee69c27e303c1e18857316911c8c6c",
+			"revisionTime": "2017-06-19T02:56:45Z"
+		},
+		{
+			"checksumSHA1": "/+t/C0L81jgAfZCn1wCrF/1+8yw=",
+			"path": "github.com/line/line-bot-sdk-go/linebot/httphandler",
+			"revision": "b25432f2bcee69c27e303c1e18857316911c8c6c",
+			"revisionTime": "2017-06-19T02:56:45Z"
+		},
+		{
+			"checksumSHA1": "dr5+PfIRzXeN+l1VG+s0lea9qz8=",
+			"path": "golang.org/x/net/context",
+			"revision": "f5079bd7f6f74e23c4d65efa0f4ce14cbd6a3c0f",
+			"revisionTime": "2017-07-19T21:11:51Z"
+		},
+		{
+			"checksumSHA1": "WHc3uByvGaMcnSoI21fhzYgbOgg=",
+			"path": "golang.org/x/net/context/ctxhttp",
+			"revision": "f5079bd7f6f74e23c4d65efa0f4ce14cbd6a3c0f",
+			"revisionTime": "2017-07-19T21:11:51Z"
+		}
+	],
+	"rootPath": "ubinix.com/warun/chewy-xyz"
+}
